@@ -100,5 +100,7 @@ else {
         Comfirm: <input type="password" name="comfirm_pass"><br>
         <input type="submit" name="SignUp" value="SignUp">
     </form>
+    <a href="login.php">⬅ Back to Login</a>
 </body>
+
 </html>
